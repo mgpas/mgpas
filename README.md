@@ -7,10 +7,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgpas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Skills 
-<img src="{https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white}" />
-<img src="{https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black}" />
-<img src="{https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white}" />
+![image]({https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white})
+![image]({https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black})
+![image]({https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white})
+![image]({https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white})
 
 #### See me also on:
 - LinkedIn - https://www.linkedin.com/in/mgpas/
