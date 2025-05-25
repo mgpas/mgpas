@@ -1,10 +1,13 @@
+##
 <div align="center">
+<img src="./assets/cat.gif" height="90" align="left" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi+all!+I'm+Gabriela;An+Environmental+Scientist+%26;Software+Engineer+from+Brazil;Glad+to+see+you+here!+(%E2%9C%BF%E2%95%B9%E2%97%A1%E2%95%B9)%EF%BE%89%E2%98%86)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&multiline=true&width=560&height=150&lines=Hi+all!+I'm+Gabriela;An+Environmental+Scientist+%26;Software+Engineer+from+Brazil;Glad+to+see+you+here!+(%E2%9C%BF%E2%95%B9%E2%97%A1%E2%95%B9)%EF%BE%89%E2%98%86" alt="Typing SVG"/></a>
 
 </div>
 
-<img src="./assets/cat.gif" height="80" />
+##
+<img src="./assets/me.png" height="80" align="right" />
 
 ```javascript
 const me = {
@@ -26,7 +29,7 @@ hobbiesAndPassions: [
   pets: ["🐾 Lila", "🐱 Éon & Shiro"]
 }
 ```
-
+##
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgpas&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
@@ -38,6 +41,6 @@ hobbiesAndPassions: [
 
 </div>
 
-💖 Thanks for stopping by! Let's connect and build inclusive tech together 🌍✨
+<br>
 
-
+### 💖 Thanks for stopping by!
